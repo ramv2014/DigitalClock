@@ -1,0 +1,18 @@
+span {
+  color : red;  
+  font-size : 40px;
+}
+p {
+  color : red;  
+  font-size : 40px;
+  display: inline;  
+}
+div {
+  height : 300px;
+  display : flex;
+  align-items : center;
+  justify-content : center;
+}
+#emptySpace { 
+  width: 6px;
+}
